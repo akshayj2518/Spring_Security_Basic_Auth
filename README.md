@@ -1,4 +1,4 @@
-# Spring Boot Security Demo
+# Spring Boot Security Basic Authentication Demo
 
 This is a simple Spring Boot application demonstrating **Spring Security** concepts like:
 - Basic Authentication
